@@ -188,8 +188,8 @@ demo1/
 ### Step 1: Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/ai-research-review-system.git
-cd ai-research-review-system
+git clone https://github.com/SaiVarun2615/AI-Research-Paper-Review-System.git
+cd AI-Research-Review-System
 ```
 
 ### Step 2: Create Virtual Environment
@@ -384,7 +384,13 @@ The application will start and provide:
 ### Quality Check
 ![Quality Check](screenshots/quality-check.png)
 
-*Note: Screenshots will be added in future updates*
+### Paper Viewer
+
+![Paper Viewer](screenshots/Paper_Viewer.png)
+
+### Final Report Export
+
+![Final Report](screenshots/Final_Report.png)
 </details>
 
 ---
@@ -441,8 +447,8 @@ Contributions are welcome! Please read [CONTRIBUTING.md](CONTRIBUTING.md) for de
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/ai-research-review-system.git
-cd ai-research-review-system
+git clone https://github.com/SaiVarun2615/AI-Research-Paper-Review-System.git
+cd AI-Research-Review-System
 
 # Create virtual environment
 python -m venv .venv
@@ -459,9 +465,13 @@ pytest tests/
 
 ## 👥 Contributors
 
-- **[Your Name]** - Initial development
-- **[Contributor Name]** - Feature enhancements
-- **[Contributor Name]** - Bug fixes and improvements
+### Bata Sai Varun ([SaiVarun2615](https://github.com/SaiVarun2615))
+
+- Project Architecture
+- Full-Stack Development
+- AI/LLM Integration
+- Research Analysis Pipeline
+- Documentation & Testing
 
 ---
 
@@ -483,14 +493,17 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Support
 
-For support, please open an issue on GitHub or contact [your-email@example.com].
+For support, bug reports, or feature requests:
 
+- GitHub Issues: https://github.com/SaiVarun2615/AI-Research-Paper-Review-System/issues
+- GitHub Profile: https://github.com/SaiVarun2615
+- Email: batasaivarun20cm040@gmail.com
 ---
 
 <div align="center">
 
 **Made with ❤️ for the research community**
 
-[⬆ Back to Top](#-ai-system-to-automatically-review-and-summarize-research-papers)
+[⬆ Back to Top](#-AI-System-To-Automatically-Review-And-Summarize-Research-Papers)
 
 </div>
