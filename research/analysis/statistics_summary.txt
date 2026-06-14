@@ -1,0 +1,7 @@
+This systematic literature review analyzed 2 research papers published between 2023 and 2024. The corpus contains 6,944 words with an average of 3472.0 words per paper.
+
+The most prominent keyword in the literature is "models" appearing 1 times across the analyzed papers. The top five keywords overall are: models (1), preprint (1), llms (1), license (1), biorxiv (1).
+
+Thematic analysis reveals 1 major research themes. The dominant theme is "Machine Learning" appearing in 2 papers (100.0% of the corpus). Other significant themes include .
+
+The average publication year is 2023.5, indicating relatively recent research activity in this domain. The data completeness score is 100.0%, suggesting high-quality extraction and analysis.

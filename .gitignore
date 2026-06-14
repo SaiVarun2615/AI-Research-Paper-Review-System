@@ -1,0 +1,74 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual Environment
+.venv/
+venv/
+ENV/
+env/
+
+# Environment Variables
+.env
+.env.local
+.env.*.local
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Gradio
+.gradio/
+
+# Research Data (large files)
+research/pdfs/*.pdf
+research/extracted_text/*.json
+research/analysis/*.json
+research/drafts/*.txt
+research/papers.json
+
+# Test files
+.pytest_cache/
+.coverage
+htmlcov/
+*.cover
+
+# Logs
+*.log
+logs/
+
+# Temporary files
+*.tmp
+*.temp
+test_*.json
+test_folder/
+
+# PDF exports
+pdf-forge-exports/
+*.pdf
+
+# OS
+Thumbs.db
+.DS_Store
